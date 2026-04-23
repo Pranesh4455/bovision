@@ -12,12 +12,12 @@ In livestock management, distinguishing between cows and buffaloes is often done
 
 ## 🧠 Key Features
 
-- ✅ Binary classification: **Cow vs Buffalo**
-- ✅ Transfer learning using **MobileNetV2**
-- ✅ High accuracy: **97.59% validation accuracy**
-- ✅ Lightweight model (~8.63 MB)
-- ✅ Deployable on mobile and edge devices
-- ✅ Built and trained entirely on Google Colab
+- Binary classification: **Cow vs Buffalo**
+- Transfer learning using **MobileNetV2**
+- High accuracy: **97.59% validation accuracy**
+- Lightweight model (~8.63 MB)
+- Deployable on mobile and edge devices
+- Built and trained entirely on Google Colab
 
 ## 📊 Model Performance
 
